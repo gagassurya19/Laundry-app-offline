@@ -1,3 +1,5 @@
+![Dashboard Image](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/image/dashboard.PNG)
+
 # UKK Laundry App OFFLINE
 Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
 
