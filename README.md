@@ -6,6 +6,7 @@ Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
 - [Dokumentasi untuk Backend](https://docs.google.com/document/d/1CowIHixpRjImN-4SA84yV-l7TfIIgP8McyrAYH2psug/edit?usp=sharing)
 - [File Database SQL](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/laundry-app.sql)
 - [Download Modul PDF](https://github.com/gagassurya19/Laundry-app-offline/tree/main/docs/modul)
+- [Repository Starter](https://github.com/gagassurya19/Laundry-app-offline-starter)
 
 #### Instalasi
 1. Clone repository ini:
