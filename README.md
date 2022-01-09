@@ -4,11 +4,11 @@ Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
 #### Dokumentasi
 - [Dokumentasi untuk Frontend](https://docs.google.com/document/d/1aiHwmZ9293nSkO0wpnDxLHMBFsSnnPdgD_e0Ez5Z8zw/edit?usp=sharing)
 - [Dokumentasi untuk Backend](https://docs.google.com/document/d/1CowIHixpRjImN-4SA84yV-l7TfIIgP8McyrAYH2psug/edit?usp=sharing)
-- [File Database SQL]()
+- [File Database SQL](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/laundry-app.sql)
 
 #### Instalasi
 1. Clone repository ini dengan cara dibawah:
-`git clone `
+`git clone https://github.com/gagassurya19/Laundry-app-offline.git`
 
 2. Install node_modules, buka folder `be` atau `fe` terlebih dahulu
 `npm install`
