@@ -4,7 +4,7 @@
 Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
 
 #### Dokumentasi
-- [Referensi Database dan fungsionalitas]()
+- [Referensi Database dan fungsionalitas](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/modul/2136-P3-SPK-Rekayasa%20Perangkat%20Lunak.doc)
 - [Dokumentasi untuk Frontend](https://docs.google.com/document/d/1aiHwmZ9293nSkO0wpnDxLHMBFsSnnPdgD_e0Ez5Z8zw/edit?usp=sharing)
 - [Dokumentasi untuk Backend](https://docs.google.com/document/d/1CowIHixpRjImN-4SA84yV-l7TfIIgP8McyrAYH2psug/edit?usp=sharing)
 - [File Database SQL](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/laundry-app.sql)
