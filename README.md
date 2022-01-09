@@ -7,6 +7,15 @@ Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
 - [File Database SQL](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/laundry-app.sql)
 - [Download Modul PDF](https://github.com/gagassurya19/Laundry-app-offline/tree/main/docs/modul)
 
+#### Instalasi
+1. Clone repository ini:
+`git clone https://github.com/gagassurya19/Laundry-app-offline.git`
+
+2. Install node_modules, buka folder `be` atau `fe` terlebih dahulu
+`npm install`
+
+3. Import file SQL ke dalam PhpMySql
+
 #### List library yang digunakan
 Frontend
 <pre>
@@ -38,15 +47,6 @@ Backend
     "sequelize": "^7.0.0-alpha.2"
   }
 </pre>
-
-#### Instalasi
-1. Clone repository ini:
-`git clone https://github.com/gagassurya19/Laundry-app-offline.git`
-
-2. Install node_modules, buka folder `be` atau `fe` terlebih dahulu
-`npm install`
-
-3. Import file SQL ke dalam PhpMySql
 
 # Tree Directory
 #### Directory Frontend
